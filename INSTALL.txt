@@ -1,0 +1,5 @@
+开发环境 :python 3.9  、opencv 4.5.4 、pycharm(集成开发环境)
+
+首先导入OpenCV库，安装opencv库的指令：pip install opencv-python
+
+import cv2 导入opencv模块，即可使用

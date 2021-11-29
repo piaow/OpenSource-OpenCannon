@@ -1,0 +1,5 @@
+常见问题：
+1.开发环境配置：python 3.9  、opencv 4.5.4 、pycharm(集成开发环境)
+
+2.导包超时：
+   通过清华镜像网install：pip install -i https://pypi.tuna.tsinghua.edu.cn/simple opencv-python
